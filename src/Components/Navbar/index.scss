@@ -59,7 +59,7 @@ img {
       position: absolute;
       top: 100px;
       background-color: $bg-hamburger_1;
-      display: $hamburgerOpen ? 'inline' : 'none'};
+      // display: $hamburgerOpen ? 'inline' : 'none'};
     }
     .nav-bar li{
       text-align: center;
