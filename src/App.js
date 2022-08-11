@@ -1,8 +1,6 @@
 import "./App.scss";
 import { Route, Routes } from "react-router-dom";
-import Navbar from "./Components/Navbar";
 import Layout from "./Components/Layout";
-import Body from "./Components/Body";
 
 
 function App() {
