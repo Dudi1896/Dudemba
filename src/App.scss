@@ -17,8 +17,22 @@ $primary-color: #DDEDF4;
   src: url("./assets/fonts/CoolveticaRg-Regular.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: 'Segoe UI Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: url("./assets/fonts/SegoeUI.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Segoe UI Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: url("./assets/fonts/SegoeUIBold.woff") format('woff');
+}
+
 input,
 textarea{
-  font-family: "Helvetica Neue";
+  font-family: "Segoe UI Regular";
 }
 
